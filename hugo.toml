@@ -1,0 +1,5 @@
+publishDir = 'docs'
+baseURL = 'https://github.com/pyrrhiantexts/quickstart.git'
+languageCode = 'en-us'
+title = 'pyrrhian texts'
+theme = 'hugo-bearblog'
